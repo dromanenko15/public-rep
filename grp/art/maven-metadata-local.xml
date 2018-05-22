@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>group1</groupId>
-  <artifactId>artifact1</artifactId>
+  <groupId>grp</groupId>
+  <artifactId>art</artifactId>
   <versioning>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20180522160805</lastUpdated>
+    <lastUpdated>20180522162239</lastUpdated>
   </versioning>
 </metadata>
