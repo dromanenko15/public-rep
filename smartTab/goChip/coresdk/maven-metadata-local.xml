@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>goChip</groupId>
+  <artifactId>coresdk</artifactId>
+  <versioning>
+    <release>1.4.7_SMART_TAB</release>
+    <versions>
+      <version>1.4.7_SMART_TAB</version>
+    </versions>
+    <lastUpdated>20180605104559</lastUpdated>
+  </versioning>
+</metadata>
