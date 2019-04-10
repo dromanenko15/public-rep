@@ -3,10 +3,11 @@
   <groupId>goChip</groupId>
   <artifactId>coresdk</artifactId>
   <versioning>
-    <release>1.4.7_SMART_TAB</release>
+    <release>1.4.14_SMARTTAB_AUGUSTA</release>
     <versions>
       <version>1.4.7_SMART_TAB</version>
+      <version>1.4.14_SMARTTAB_AUGUSTA</version>
     </versions>
-    <lastUpdated>20180608105911</lastUpdated>
+    <lastUpdated>20190410124730</lastUpdated>
   </versioning>
 </metadata>
