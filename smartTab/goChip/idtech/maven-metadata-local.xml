@@ -3,11 +3,12 @@
   <groupId>goChip</groupId>
   <artifactId>idtech</artifactId>
   <versioning>
-    <release>1.4.14_SMARTTAB_AUGUSTA</release>
+    <release>1.5.0</release>
     <versions>
       <version>1.4.7_SMART_TAB</version>
       <version>1.4.14_SMARTTAB_AUGUSTA</version>
+      <version>1.5.0</version>
     </versions>
-    <lastUpdated>20190410125048</lastUpdated>
+    <lastUpdated>20190703091020</lastUpdated>
   </versioning>
 </metadata>
